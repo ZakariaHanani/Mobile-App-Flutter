@@ -15,6 +15,12 @@ Le projet global consiste en un système de gestion de présence avec un serveur
 
 Le serveur web Django lié à ce projet peut être trouvé ici : [https://github.com/Zakarro/Gestion-Absence-Django.git]
 
+##Créateurs de l'application
+Cette application a été développée par :
+
+Zakaria Hanani
+Youness Jayid
+Hosam Elhaddajy
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -24,3 +30,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
