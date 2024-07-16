@@ -1,10 +1,20 @@
-# flutter_application_1
+# Projet de Prise de Présence - Application Mobile Flutter
 
-A new Flutter project.
+Ce dépôt contient l'application mobile développée avec Flutter pour scanner les présences.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Le projet global consiste en un système de gestion de présence avec un serveur web Django et une application mobile Flutter pour scanner les présences.
+
+### Fonctionnalités
+
+- Scanner les présences via un code QR
+- Envoyer les données de présence au serveur Django
+
+## Dépôt lié
+
+Le serveur web Django lié à ce projet peut être trouvé ici : [https://github.com/Zakarro/Gestion-Absence-Django.git]
+
 
 A few resources to get you started if this is your first Flutter project:
 
